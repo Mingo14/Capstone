@@ -1,19 +1,17 @@
 package main
+
 import (
-	"fmt"
-	// "io/ioutil"
+    "fmt"
+    "net/http"
 )
 
 func main() {
-	fmt.Println("hllo")
+    http.HandleFunc("/", func (w http.ResponseWriter, r *http.Request) {
+        fmt.Fprintf(w, "Welcome to my website!")
+    })
+
+    fs := http.FileServer(http.Dir("static/"))
+    http.Handle("/static/", http.StripPrefix("/static/", fs))
+
+    http.ListenAndServe(":8080", nil)
 }
-
-// type Page struct {
-// 	Title string
-// 	Body []byte
-// }
-
-// func (p *Page) save() error {
-// 	filename := p.Title + ".txt"
-// 	return ioutil.Write
-// }
