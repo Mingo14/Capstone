@@ -56,11 +56,69 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 func aboutPage(w http.ResponseWriter, r *http.Request) {
 	fmt.Println("About")
 	templ.ExecuteTemplate(w, "about", &Page{Title: "About TL;DR"})
+	if fileExists("commingSoon.json") {
+		log.Print("it exisits")
+	} else {
+		d := commingSoonAPIRequest()
+		file, _ := json.MarshalIndent(d, "", " ")
+
+		_ = ioutil.WriteFile("commingSoon.json", file, 0644)
+	}
+
+	temp := [10]string{"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"}
+	for i := 0; i < 10; i++ {
+		jq := gojsonq.New().File("./commingSoon.json")
+		title := jq.Find("results.[" + temp[i] + "].original_title")
+		jq2 := gojsonq.New().File("./commingSoon.json")
+		des := jq2.Find("results.[" + temp[i] + "].overview")
+		jq3 := gojsonq.New().File("./commingSoon.json")
+		date := jq2.Find("results.[" + temp[i] + "].release_date")
+
+		if jq.Error() != nil {
+			log.Fatal(jq.Errors())
+		}
+		if jq2.Error() != nil {
+			log.Fatal(jq.Errors())
+		}
+		if jq3.Error() != nil {
+			log.Fatal(jq.Errors())
+		}
+		fmt.Fprintln(w, title)
+		fmt.Fprintln(w, des)
+		fmt.Fprintln(w, date)
+		log.Println(title)
+		log.Println(des)
+		log.Println(date)
+		// titleStr := fmt.Sprintf("%v", title)
+		// desStr := fmt.Sprintf("%v", des)
+		// movieMap[titleStr] = desStr
+	}
 }
 
 func apiRequest() map[string]interface{} {
 	log.Println("pulling api data")
 	url := "https://api.themoviedb.org/3/movie/now_playing?api_key=8899bc310c15c2755e2703aed0345bc5"
+	timeStart := time.Now()
+	resp, err := http.Get(url)
+	if err != nil {
+		panic(err)
+	}
+	defer resp.Body.Close()
+	fmt.Println(time.Since(timeStart), url)
+	var result map[string]interface{}
+	json.NewDecoder(resp.Body).Decode(&result)
+	// log.Println(result)
+	enc := json.NewEncoder(os.Stdout)
+	d := result
+	enc.Encode(d)
+	fmt.Println("The JSON data is:")
+	fmt.Println(d)
+
+	return d
+}
+func commingSoonAPIRequest() map[string]interface{} {
+	log.Println("pulling api data")
+	url := "https://api.themoviedb.org/3/movie/upcoming?api_key=8899bc310c15c2755e2703aed0345bc5&language=en-US&page=1"
 	timeStart := time.Now()
 	resp, err := http.Get(url)
 	if err != nil {

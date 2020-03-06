@@ -1,0 +1,6 @@
+github.com/gopherjs/gopherjs v0.0.0-20200209183636-89e6cbcd0b6d h1:vr95xIx8Eg3vCzZPxY3rCwTfkjqNDt/FgVqTOk0WByk=
+github.com/gopherjs/gopherjs v0.0.0-20200209183636-89e6cbcd0b6d/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
+github.com/thedevsaddam/gojsonq v2.3.0+incompatible h1:i2lFTvGY4LvoZ2VUzedsFlRiyaWcJm3Uh6cQ9+HyQA8=
+github.com/thedevsaddam/gojsonq v2.3.0+incompatible/go.mod h1:RBcQaITThgJAAYKH7FNp2onYodRz8URfsuEGpAch0NA=
+honnef.co/go/js/dom v0.0.0-20190526011328-ebc4cf92d81f h1:b3Q9PqH+5NYHfIjNUEN+f8lYvBh9A25AX+kPh8dpYmc=
+honnef.co/go/js/dom v0.0.0-20190526011328-ebc4cf92d81f/go.mod h1:sUMDUKNB2ZcVjt92UnLy3cdGs+wDAcrPdV3JP6sVgA4=

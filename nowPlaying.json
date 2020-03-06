@@ -1,0 +1,410 @@
+{
+ "dates": {
+  "maximum": "2020-02-25",
+  "minimum": "2020-01-08"
+ },
+ "page": 1,
+ "results": [
+  {
+   "adult": false,
+   "backdrop_path": "/tCUcf3oNWMW8kwAj3WC6CvIN5ah.jpg",
+   "genre_ids": [
+    28,
+    35,
+    878,
+    10751
+   ],
+   "id": 454626,
+   "original_language": "en",
+   "original_title": "Sonic the Hedgehog",
+   "overview": "Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+   "popularity": 268.411,
+   "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+   "release_date": "2020-02-12",
+   "title": "Sonic the Hedgehog",
+   "video": false,
+   "vote_average": 7.1,
+   "vote_count": 233
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+   "genre_ids": [
+    35,
+    18,
+    53
+   ],
+   "id": 496243,
+   "original_language": "ko",
+   "original_title": "기생충",
+   "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+   "popularity": 242.99,
+   "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+   "release_date": "2019-05-30",
+   "title": "Parasite",
+   "video": false,
+   "vote_average": 8.6,
+   "vote_count": 4106
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
+   "genre_ids": [
+    28,
+    35,
+    80
+   ],
+   "id": 495764,
+   "original_language": "en",
+   "original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+   "overview": "After her breakup with the Joker, Harley Quinn joins forces with singer Black Canary, assassin Huntress, and police detective Renee Montoya to help a young girl named Cassandra, who had a hit placed on her after she stole a rare diamond from crime lord Roman Sionis.",
+   "popularity": 149.999,
+   "poster_path": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+   "release_date": "2020-02-05",
+   "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+   "video": false,
+   "vote_average": 6.9,
+   "vote_count": 685
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/cjTQSwcsfVdirSFSHNBXRGkxmWa.jpg",
+   "genre_ids": [
+    35,
+    80,
+    18,
+    9648,
+    53
+   ],
+   "id": 546554,
+   "original_language": "en",
+   "original_title": "Knives Out",
+   "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+   "popularity": 121.807,
+   "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+   "release_date": "2019-11-27",
+   "title": "Knives Out",
+   "video": false,
+   "vote_average": 7.8,
+   "vote_count": 2138
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
+   "genre_ids": [
+    28,
+    12,
+    35,
+    14
+   ],
+   "id": 512200,
+   "original_language": "en",
+   "original_title": "Jumanji: The Next Level",
+   "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+   "popularity": 110.378,
+   "poster_path": "/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+   "release_date": "2019-12-04",
+   "title": "Jumanji: The Next Level",
+   "video": false,
+   "vote_average": 6.7,
+   "vote_count": 1547
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/lG802rseTZcN9mtLsQPVfApEVzM.jpg",
+   "genre_ids": [
+    12,
+    35,
+    14,
+    10751
+   ],
+   "id": 448119,
+   "original_language": "en",
+   "original_title": "Dolittle",
+   "overview": "After losing his wife seven years earlier, the eccentric Dr. John Dolittle, famed doctor and veterinarian of Queen Victoria’s England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen falls gravely ill, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure, regaining his wit and courage as he crosses old adversaries and discovers wondrous creatures.",
+   "popularity": 108.601,
+   "poster_path": "/5eNiYMu2GXCtNlDwMcJqKGVwyoX.jpg",
+   "release_date": "2020-01-01",
+   "title": "Dolittle",
+   "video": false,
+   "vote_average": 6.4,
+   "vote_count": 410
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+   "genre_ids": [
+    35,
+    18,
+    10752
+   ],
+   "id": 515001,
+   "original_language": "en",
+   "original_title": "Jojo Rabbit",
+   "overview": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.",
+   "popularity": 95.742,
+   "poster_path": "/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+   "release_date": "2019-10-18",
+   "title": "Jojo Rabbit",
+   "video": false,
+   "vote_average": 8.1,
+   "vote_count": 1903
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg",
+   "genre_ids": [
+    28,
+    18,
+    10752
+   ],
+   "id": 530915,
+   "original_language": "en",
+   "original_title": "1917",
+   "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+   "popularity": 104.881,
+   "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+   "release_date": "2019-12-10",
+   "title": "1917",
+   "video": false,
+   "vote_average": 8.1,
+   "vote_count": 2662
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/n3UanIvmnBlH531pykuzNs4LbH6.jpg",
+   "genre_ids": [
+    28,
+    18
+   ],
+   "id": 359724,
+   "original_language": "en",
+   "original_title": "Ford v Ferrari",
+   "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+   "popularity": 87.226,
+   "poster_path": "/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg",
+   "release_date": "2019-11-13",
+   "title": "Ford v Ferrari",
+   "video": false,
+   "vote_average": 7.8,
+   "vote_count": 1563
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+   "genre_ids": [
+    28,
+    12,
+    35
+   ],
+   "id": 458897,
+   "original_language": "en",
+   "original_title": "Charlie's Angels",
+   "overview": "When a systems engineer blows the whistle on a dangerous technology, Charlie's Angels from across the globe are called into action, putting their lives on the line to protect society.",
+   "popularity": 77.504,
+   "poster_path": "/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
+   "release_date": "2019-11-14",
+   "title": "Charlie's Angels",
+   "video": false,
+   "vote_average": 6.4,
+   "vote_count": 420
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/upUy2QhMZEmtypPW3PdieKLAHxh.jpg",
+   "genre_ids": [
+    28,
+    80,
+    53
+   ],
+   "id": 38700,
+   "original_language": "en",
+   "original_title": "Bad Boys for Life",
+   "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+   "popularity": 67.773,
+   "poster_path": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+   "release_date": "2020-01-15",
+   "title": "Bad Boys for Life",
+   "video": false,
+   "vote_average": 6.4,
+   "vote_count": 829
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+   "genre_ids": [
+    28,
+    12,
+    878
+   ],
+   "id": 181812,
+   "original_language": "en",
+   "original_title": "Star Wars: The Rise of Skywalker",
+   "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+   "popularity": 69.978,
+   "poster_path": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+   "release_date": "2019-12-18",
+   "title": "Star Wars: The Rise of Skywalker",
+   "video": false,
+   "vote_average": 6.5,
+   "vote_count": 2969
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/bga3i5jcejBekr2FCGJga1fYCh.jpg",
+   "genre_ids": [
+    16,
+    10749
+   ],
+   "id": 486589,
+   "original_language": "en",
+   "original_title": "Red Shoes and the Seven Dwarfs",
+   "overview": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.",
+   "popularity": 63.225,
+   "poster_path": "/MBiKqTsouYqAACLYNDadsjhhC0.jpg",
+   "release_date": "2019-07-25",
+   "title": "Red Shoes and the Seven Dwarfs",
+   "video": false,
+   "vote_average": 6.5,
+   "vote_count": 104
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/yFRpUmsreYO5Bc0HVBTsJsHIIox.jpg",
+   "genre_ids": [
+    12,
+    18,
+    10751
+   ],
+   "id": 481848,
+   "original_language": "en",
+   "original_title": "The Call of the Wild",
+   "overview": "A sled dog struggles for survival in the wilds of the Yukon.",
+   "popularity": 69.714,
+   "poster_path": "/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
+   "release_date": "2020-02-19",
+   "title": "The Call of the Wild",
+   "video": false,
+   "vote_average": 5.5,
+   "vote_count": 3
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/6mKAKhj8POVGqV1GsroS5mGIUe9.jpg",
+   "genre_ids": [
+    14
+   ],
+   "id": 666750,
+   "original_language": "en",
+   "original_title": "Dragonheart: Vengeance",
+   "overview": "Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.",
+   "popularity": 63.598,
+   "poster_path": "/qZ1KAgfdeNbzrNYKW4BIRHdEBJ9.jpg",
+   "release_date": "2020-02-04",
+   "title": "Dragonheart: Vengeance",
+   "video": false,
+   "vote_average": 6.6,
+   "vote_count": 24
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/dzfiE2VHY362dGI62XfZ2iI87CT.jpg",
+   "genre_ids": [
+    14,
+    27,
+    878
+   ],
+   "id": 539537,
+   "original_language": "en",
+   "original_title": "Fantasy Island",
+   "overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+   "popularity": 63.289,
+   "poster_path": "/yqZdRSC6wfX6AGtBPfGbpvmNKag.jpg",
+   "release_date": "2020-02-12",
+   "title": "Fantasy Island",
+   "video": false,
+   "vote_average": 4.6,
+   "vote_count": 74
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/4ZSlTfkHtgTTupCaLbseXQQzZha.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 552178,
+   "original_language": "en",
+   "original_title": "Dark Waters",
+   "overview": "A tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths due to one of the world's largest corporations. In the process, he risks everything — his future, his family, and his own life — to expose the truth.",
+   "popularity": 58.51,
+   "poster_path": "/hJ6YEbrjFvToa5c7IiUqILoB6Je.jpg",
+   "release_date": "2019-11-22",
+   "title": "Dark Waters",
+   "video": false,
+   "vote_average": 7.5,
+   "vote_count": 81
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/5bUExJx4NLXJSaphRxO5VflaKdG.jpg",
+   "genre_ids": [
+    28,
+    80,
+    18
+   ],
+   "id": 535292,
+   "original_language": "en",
+   "original_title": "21 Bridges",
+   "overview": "An embattled NYPD detective, is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy. As the night unfolds, lines become blurred on who he is pursuing, and who is in pursuit of him.",
+   "popularity": 57.485,
+   "poster_path": "/bSN9SysoRBMwJKNkfOlQlCw2YQO.jpg",
+   "release_date": "2019-10-24",
+   "title": "21 Bridges",
+   "video": false,
+   "vote_average": 6.3,
+   "vote_count": 278
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/3ghImmHdp4RnC3UkL6hpLayclnb.jpg",
+   "genre_ids": [
+    28,
+    35,
+    27
+   ],
+   "id": 338967,
+   "original_language": "en",
+   "original_title": "Zombieland: Double Tap",
+   "overview": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+   "popularity": 48.121,
+   "poster_path": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+   "release_date": "2019-10-09",
+   "title": "Zombieland: Double Tap",
+   "video": false,
+   "vote_average": 6.9,
+   "vote_count": 1451
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg",
+   "genre_ids": [
+    28,
+    12,
+    878
+   ],
+   "id": 27205,
+   "original_language": "en",
+   "original_title": "Inception",
+   "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+   "popularity": 41.869,
+   "poster_path": "/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+   "release_date": "2010-07-15",
+   "title": "Inception",
+   "video": false,
+   "vote_average": 8.3,
+   "vote_count": 24536
+  }
+ ],
+ "total_pages": 52,
+ "total_results": 1040
+}

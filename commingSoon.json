@@ -1,0 +1,403 @@
+{
+ "dates": {
+  "maximum": "2020-03-25",
+  "minimum": "2020-03-04"
+ },
+ "page": 1,
+ "results": [
+  {
+   "adult": false,
+   "backdrop_path": "/ekP6EVxL81lZ4ivcqPsoZ72rY0h.jpg",
+   "genre_ids": [
+    28,
+    18,
+    36
+   ],
+   "id": 449924,
+   "original_language": "cn",
+   "original_title": "葉問4",
+   "overview": "Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.",
+   "popularity": 83.805,
+   "poster_path": "/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg",
+   "release_date": "2019-12-20",
+   "title": "Ip Man 4: The Finale",
+   "video": false,
+   "vote_average": 6,
+   "vote_count": 312
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+   "genre_ids": [
+    28,
+    12,
+    35
+   ],
+   "id": 458897,
+   "original_language": "en",
+   "original_title": "Charlie's Angels",
+   "overview": "When a systems engineer blows the whistle on a dangerous technology, Charlie's Angels from across the globe are called into action, putting their lives on the line to protect society.",
+   "popularity": 83.202,
+   "poster_path": "/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
+   "release_date": "2019-11-14",
+   "title": "Charlie's Angels",
+   "video": false,
+   "vote_average": 6.4,
+   "vote_count": 466
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/lG802rseTZcN9mtLsQPVfApEVzM.jpg",
+   "genre_ids": [
+    12,
+    35,
+    14,
+    10751
+   ],
+   "id": 448119,
+   "original_language": "en",
+   "original_title": "Dolittle",
+   "overview": "After losing his wife seven years earlier, the eccentric Dr. John Dolittle, famed doctor and veterinarian of Queen Victoria’s England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen catches the coronavirus, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure, regaining his wit and courage as he crosses old adversaries and discovers wondrous creatures.",
+   "popularity": 83.07,
+   "poster_path": "/5eNiYMu2GXCtNlDwMcJqKGVwyoX.jpg",
+   "release_date": "2020-01-01",
+   "title": "Dolittle",
+   "video": false,
+   "vote_average": 6.4,
+   "vote_count": 480
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/q5t01d3MBFFsjwRjoS61LxXEEOr.jpg",
+   "genre_ids": [
+    27,
+    878,
+    53
+   ],
+   "id": 570670,
+   "original_language": "en",
+   "original_title": "The Invisible Man",
+   "overview": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+   "popularity": 80.919,
+   "poster_path": "/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg",
+   "release_date": "2020-02-26",
+   "title": "The Invisible Man",
+   "video": false,
+   "vote_average": 7.6,
+   "vote_count": 16
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/4ZSlTfkHtgTTupCaLbseXQQzZha.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 552178,
+   "original_language": "en",
+   "original_title": "Dark Waters",
+   "overview": "A tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths due to one of the world's largest corporations. In the process, he risks everything — his future, his family, and his own life — to expose the truth.",
+   "popularity": 58.52,
+   "poster_path": "/hJ6YEbrjFvToa5c7IiUqILoB6Je.jpg",
+   "release_date": "2019-11-22",
+   "title": "Dark Waters",
+   "video": false,
+   "vote_average": 7.4,
+   "vote_count": 141
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/tE7SjDwITs333u4fBICqEmCRfgk.jpg",
+   "genre_ids": [
+    27,
+    9648,
+    53
+   ],
+   "id": 555974,
+   "original_language": "en",
+   "original_title": "Brahms: The Boy II",
+   "overview": "After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.",
+   "popularity": 58.124,
+   "poster_path": "/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg",
+   "release_date": "2020-02-20",
+   "title": "Brahms: The Boy II",
+   "video": false,
+   "vote_average": 5.9,
+   "vote_count": 22
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/dzfiE2VHY362dGI62XfZ2iI87CT.jpg",
+   "genre_ids": [
+    14,
+    27,
+    878
+   ],
+   "id": 539537,
+   "original_language": "en",
+   "original_title": "Fantasy Island",
+   "overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+   "popularity": 53.069,
+   "poster_path": "/yqZdRSC6wfX6AGtBPfGbpvmNKag.jpg",
+   "release_date": "2020-02-12",
+   "title": "Fantasy Island",
+   "video": false,
+   "vote_average": 4.8,
+   "vote_count": 115
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/iyn2JQsftaqhQlXYaCCvn8udM5i.jpg",
+   "genre_ids": [
+    27,
+    878
+   ],
+   "id": 548473,
+   "original_language": "en",
+   "original_title": "Color Out of Space",
+   "overview": "The Gardner family moves to a remote farmstead in rural New England to escape the hustle of the 21st century. They are busy adapting to their new life when a meteorite crashes into their front yard, melts into the earth, and infects both the land and the properties of space-time with a strange, otherworldly colour. To their horror, the family discovers this alien force is gradually mutating every life form that it touches—including them.",
+   "popularity": 51.011,
+   "poster_path": "/vkwgzCBBiY3C1XEy0WakYfMOvnG.jpg",
+   "release_date": "2019-09-24",
+   "title": "Color Out of Space",
+   "video": false,
+   "vote_average": 6.4,
+   "vote_count": 79
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/lEolXbxv14PdZFTw7jZMJQn4lMK.jpg",
+   "genre_ids": [
+    28,
+    35
+   ],
+   "id": 457335,
+   "original_language": "en",
+   "original_title": "Guns Akimbo",
+   "overview": "An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.",
+   "popularity": 47.064,
+   "poster_path": "/sN8sfiGZV6PDP7kafMqrSuKUtOM.jpg",
+   "release_date": "2020-02-27",
+   "title": "Guns Akimbo",
+   "video": false,
+   "vote_average": 7.5,
+   "vote_count": 2
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/ocUrMYbdjknu2TwzMHKT9PBBQRw.jpg",
+   "genre_ids": [
+    28,
+    18,
+    14,
+    878
+   ],
+   "id": 338762,
+   "original_language": "en",
+   "original_title": "Bloodshot",
+   "overview": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought.",
+   "popularity": 45.243,
+   "poster_path": "/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+   "release_date": "2020-02-20",
+   "title": "Bloodshot",
+   "video": false,
+   "vote_average": 6.8,
+   "vote_count": 16
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/bcT8CaBIj086WVD7K529h78eujb.jpg",
+   "genre_ids": [
+    12,
+    16,
+    35,
+    14,
+    10751
+   ],
+   "id": 508439,
+   "original_language": "en",
+   "original_title": "Onward",
+   "overview": "In a suburban fantasy world, two teenage elf brothers run from home in their family’s van upon hearing of the events of 9/11.",
+   "popularity": 38.345,
+   "poster_path": "/3VqDLgKLfNYSQYEGC5sjGhcPhn7.jpg",
+   "release_date": "2020-02-29",
+   "title": "Onward",
+   "video": false,
+   "vote_average": 7.8,
+   "vote_count": 8
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/joXf2ToDZjVMBxWrzijQ3V9cC8p.jpg",
+   "genre_ids": [
+    18,
+    10749
+   ],
+   "id": 531428,
+   "original_language": "fr",
+   "original_title": "Portrait de la jeune fille en feu",
+   "overview": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+   "popularity": 36.485,
+   "poster_path": "/3NTEMlG5mQdIAlKDl3AJG0rX29Z.jpg",
+   "release_date": "2019-06-17",
+   "title": "Portrait of a Lady on Fire",
+   "video": false,
+   "vote_average": 8.3,
+   "vote_count": 304
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/w0tJot6O0UtLVBRIPAdg3dQ2oNO.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 501907,
+   "original_language": "en",
+   "original_title": "A Beautiful Day in the Neighborhood",
+   "overview": "An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel's perspective on life is transformed.",
+   "popularity": 34.153,
+   "poster_path": "/p9vCAVhDK375XyobVcKqzqzsUHE.jpg",
+   "release_date": "2019-11-22",
+   "title": "A Beautiful Day in the Neighborhood",
+   "video": false,
+   "vote_average": 7.3,
+   "vote_count": 270
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/l111ATIHwHQPL9dHKV5Lix85Azq.jpg",
+   "genre_ids": [
+    35,
+    18
+   ],
+   "id": 556678,
+   "original_language": "en",
+   "original_title": "Emma.",
+   "overview": "In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.",
+   "popularity": 31.313,
+   "poster_path": "/sm8iVzA7kRp0d4BSIsgXjsSBMKV.jpg",
+   "release_date": "2020-02-13",
+   "title": "Emma.",
+   "video": false,
+   "vote_average": 7.5,
+   "vote_count": 21
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/yjCW0qLgmyBUuv3KwRkuwy6yfmv.jpg",
+   "genre_ids": [
+    18
+   ],
+   "id": 522369,
+   "original_language": "en",
+   "original_title": "Sorry We Missed You",
+   "overview": "From the Director of I Daniel Blake (Ken Loach) comes another hard hitting dose of reality. Ricky and his family have been fighting an uphill struggle against debt since the 2008 financial crash. An opportunity to wrestle back some independence appears with a shiny new van and the chance to run a franchise as a self-employed delivery driver. It's hard work, and his wife's job as a carer is no easier. The family unit is strong but when both are pulled in different directions everything comes to breaking point.",
+   "popularity": 29.844,
+   "poster_path": "/jNvlqNDnXH8aqBeiBxNNP0wWWO3.jpg",
+   "release_date": "2019-10-04",
+   "title": "Sorry We Missed You",
+   "video": false,
+   "vote_average": 7.6,
+   "vote_count": 142
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/MmDgXMjZhD7rSH74mPrQj3uZaI.jpg",
+   "genre_ids": [
+    80,
+    18,
+    10749
+   ],
+   "id": 536743,
+   "original_language": "en",
+   "original_title": "Queen \u0026 Slim",
+   "overview": "While on a forgettable first date together in Ohio, a black man and a black woman are pulled over for a minor traffic infraction. The situation escalates, with sudden and tragic results, when the man kills the police officer in self-defense. Terrified and in fear for their lives, the man, a retail employee, and the woman, a criminal defense lawyer, are forced to go on the run. But the incident is captured on video and goes viral, and the couple unwittingly become a symbol of trauma, terror, grief and pain for people across the country.",
+   "popularity": 29.803,
+   "poster_path": "/coANk5hxXAAAygxIj69YRoyWMvz.jpg",
+   "release_date": "2019-11-27",
+   "title": "Queen \u0026 Slim",
+   "video": false,
+   "vote_average": 7.4,
+   "vote_count": 107
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/kU5qE5b6ksL3osaqKCUlMS08Ays.jpg",
+   "genre_ids": [
+    18,
+    10749
+   ],
+   "id": 589049,
+   "original_language": "en",
+   "original_title": "The Photograph",
+   "overview": "When famed photographer Christina Eames dies unexpectedly, she leaves her estranged daughter, Mae, hurt, angry and full of questions. When Mae finds a photograph tucked away in a safe-deposit box, she soon finds herself delving into her mother's early life -- an investigation that leads to an unexpected romance with a rising journalist.",
+   "popularity": 27.017,
+   "poster_path": "/cdqZqIcWt0Ne2Io2OA9iWqqMuCA.jpg",
+   "release_date": "2020-02-14",
+   "title": "The Photograph",
+   "video": false,
+   "vote_average": 6.8,
+   "vote_count": 12
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/en1XAePgWqNSXb82luUMmo5u3cF.jpg",
+   "genre_ids": [
+    27,
+    14,
+    53
+   ],
+   "id": 542224,
+   "original_language": "en",
+   "original_title": "Gretel \u0026 Hansel",
+   "overview": "A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.",
+   "popularity": 25.899,
+   "poster_path": "/mBBBXseq4k4dI63k06XIrsc02j8.jpg",
+   "release_date": "2020-01-30",
+   "title": "Gretel \u0026 Hansel",
+   "video": false,
+   "vote_average": 5.4,
+   "vote_count": 64
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/55W4OmZx1tH73KOtYHMJU7uGpy0.jpg",
+   "genre_ids": [
+    18,
+    878,
+    53
+   ],
+   "id": 520763,
+   "original_language": "en",
+   "original_title": "A Quiet Place Part II",
+   "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+   "popularity": 21.569,
+   "poster_path": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+   "release_date": "2020-03-18",
+   "title": "A Quiet Place Part II",
+   "video": false,
+   "vote_average": 0,
+   "vote_count": 0
+  },
+  {
+   "adult": false,
+   "backdrop_path": "/zNqsGEWHlXwFw8wod0HDkgrvsl8.jpg",
+   "genre_ids": [
+    18,
+    36
+   ],
+   "id": 522212,
+   "original_language": "en",
+   "original_title": "Just Mercy",
+   "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+   "popularity": 20.153,
+   "poster_path": "/zQGzAoYF6lXDN3L9hxBecQRZIwB.jpg",
+   "release_date": "2019-12-25",
+   "title": "Just Mercy",
+   "video": false,
+   "vote_average": 8.2,
+   "vote_count": 181
+  }
+ ],
+ "total_pages": 17,
+ "total_results": 333
+}
