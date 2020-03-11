@@ -10,5 +10,5 @@ node{
     sh "docker-credential-gcr configure-docker"
     sh "gcloud auth activate-service-account jenkins@decoded-doodad-265918.iam.gserviceaccount.com --key-file=jenkins-sa.json"
     sh "docker login -u oauth2accesstoken -p \"\$(gcloud auth print-access-token)\" https://gcr.io"
-    sh "docker push gcr.io/decoded-doodad-265918capstone-go-app:1.${env.BUILD_ID}"
+    sh "docker push gcr.io/decoded-doodad-265918/capstone-go-app:1.${env.BUILD_ID}"
 }
