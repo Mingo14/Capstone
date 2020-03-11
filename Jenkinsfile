@@ -1,5 +1,5 @@
 node{
-    docker.withRegistry('https://registry.hub.docker.com/', docker2){
+    docker.withRegistry('https://registry.hub.docker.com/', 'docker2'){
         def dockerfile = 'Dockerfile'
         def image = docker.build("mbradfield/capstone-go-app:1.${env.BUILD_ID}")
         image.push()
