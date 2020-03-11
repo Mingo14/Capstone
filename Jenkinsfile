@@ -1,4 +1,5 @@
 node{
+    git credentialsId: 'f92c1ee0-9d73-406a-bf55-b8c8bc6e6cd3', url: 'https://github.com/Mingo14/Capstone.git'
     docker.withRegistry('https://registry.hub.docker.com/', 'docker2'){
         def dockerfile = 'Dockerfile'
         def image = docker.build("mbradfield/capstone-go-app:1.${env.BUILD_ID}")
