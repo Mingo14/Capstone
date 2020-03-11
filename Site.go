@@ -18,7 +18,7 @@ import (
 func homePage(w http.ResponseWriter, r *http.Request) {
 	templ.ExecuteTemplate(w, "main", &Page{Title: "Welcome to TL;DR"})
 
-	fmt.Println("Endpoint Hit: homePage")
+	//fmt.Println("Endpoint Hit: homePage")
 	if fileExists("test.json") {
 		log.Print("it exisits")
 	} else {
