@@ -18,7 +18,7 @@ import (
 func homePage(w http.ResponseWriter, r *http.Request) {
 	templ.ExecuteTemplate(w, "main", &Page{Title: "Welcome to TL;DR"})
 
-	//fmt.Println("Endpoint Hit: homePage")
+	fmt.Println("Endpoint Hit: homePage")
 	if fileExists("test.json") {
 		log.Print("it exisits")
 	} else {
@@ -27,7 +27,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 
 		_ = ioutil.WriteFile("test.json", file, 0644)
 	}
-	// movieMap := make(map[string]string)
+	//movieMap := make(map[string]string)
 	temp := [10]string{"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"}
 	for i := 0; i < 10; i++ {
 		jq := gojsonq.New().File("./test.json")
